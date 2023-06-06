@@ -1,4 +1,2 @@
-# directory
-directory
-
-# [Git](git.md)
+# Краткий справочник
+### [1. Git](git.md)
