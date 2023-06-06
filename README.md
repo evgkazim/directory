@@ -1,3 +1,3 @@
 # directory
 directory
-[Вопросы для собеседования](git.md)
+[Git](git.md)
