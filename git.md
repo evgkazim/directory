@@ -1,3 +1,11 @@
+#### ќсновные функции
+
+* <code>git fetch</code> - обновл€ет один репозиторий или группу репозиториев
+* <code>git merge</code> - включить изменени€ из удаленного репозитори€ в локальную копию проекта путем сли€ни€
+* <code>git rebase</code> - наложить локальные коммиты поверх обновленной удаленной ветки
+* <code>git remote update</code> - обновл€ет все удаленные подключени€
+* <code>git pull</code> - св€зка последующих команд <code>git fetch</code> и <code>git merge</code>
+
 #### —оздание локального репозитори€
 
 <code>git init</code>
@@ -24,9 +32,4 @@
   <code>git config Цlocal user.name УuserФ</code><br>
   <code>git config Цlocal user.email user@example.com</code><br>
 
-#### ќсновные функции
-* <code>git fetch</code> - обновл€ет один репозиторий или группу репозиториев
-* <code>git merge</code> - включить изменени€ из удаленного репозитори€ в локальную копию проекта путем сли€ни€
-* <code>git rebase</code> - наложить локальные коммиты поверх обновленной удаленной ветки
-* <code>git remote update</code> - обновл€ет все удаленные подключени€
-* <code>git pull</code> - св€зка последующих команд <code>git fetch</code> и <code>git merge</code>
+#### to be complete
